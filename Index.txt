@@ -1,0 +1,25 @@
+<html>
+
+</head>
+
+<meta charset="utf-8">
+
+<title> Projeto Site </title>
+
+</head>
+
+<body>
+ <h1> Site sem genêro </h1>
+ <p> Teste do projeto site </p>
+
+<img src= "imagens/roxy.png"
+
+alt= "imagem não encontrada"
+title= "Dog" />
+
+<video src= "videos/dog-fofo.mp4">
+</video>
+
+</body>
+
+</html>
